@@ -271,6 +271,72 @@ letter-spacing: -0.28125px;
 color: #9597A5;
 margin-bottom: 35px;
 }
+.bytton{
+     margin-bottom: 170px;
+}
+/* FEATURE SECTION  */
+.features {
+     background-color: #F4F5F7;
+     padding-bottom: 138px;
+}
+.features__info {
+     width: 100%;
+     max-width: 600px;
+     padding-top: 63px;
+}
+.featires__title {
+font-family: 'Public Sans';
+font-style: normal;
+font-weight: 100;
+font-size: 40px;
+line-height: 64px;
+letter-spacing: -0.714286px;
+color: #2D314D;
+}
+.features__text {
+font-family: 'Public Sans';
+font-size: 18px;
+line-height: 28px;
+letter-spacing: -0.28125px;
+color: #9597A5;
+padding-bottom: 70px;
+}
+.features__list {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 0;
+     margin: 0;
+}
+.features__item {
+     width: 100%;
+     max-width: 255px;
+}
+.feture {
+     list-style: none;
+}
+.feture:not(:last-child){
+     padding-right: 50px;
+}
+.feature__icon {
+     margin-bottom: 35px;
+}
+.feature__title {
+     margin-bottom: 35px;
+     font-family: 'Public Sans';
+     font-style: normal;
+     font-weight: 100;
+     font-size: 24px;
+     line-height: 28px;
+     letter-spacing: -0.428571px;
+     color: #2D314D;
+}
+.feature__description {
+     font-family: 'PublicSans';
+     font-size: 16px;
+     line-height: 26px;
+     color: #9597A5;
+}
 
 
 
