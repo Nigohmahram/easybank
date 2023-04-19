@@ -475,6 +475,7 @@ padding-bottom: 70px;
 
 .site-footer__cta-copy {
      display: flex;
+     justify-content: space-between;
      flex-direction: column;
      align-items: flex-end;
      text-align: right;
