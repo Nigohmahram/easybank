@@ -338,6 +338,50 @@ padding-bottom: 70px;
      color: #9597A5;
 }
 
+/* ARTICLES  */
+.index-articles {
+     padding-top: 30px;
+     padding-bottom: 80px;
+}
+
+.index-articles__title {
+     padding-bottom: 30px;
+     font-family: 'Public Sans';
+     font-style: normal;
+     font-weight: 100;
+     font-size: 40px;
+     line-height: 64px;
+     letter-spacing: -0.714286px;
+     color: #2D314D;
+}
+.article-cards-grid {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 0;
+     margin: 0;
+}
+.article-cards-grid__item {
+     list-style: none;
+     width: 100%;
+     max-width: 255px;
+}
+.article__card {
+
+}
+.article-card__img {
+}
+.article-card__content {
+}
+.article-card__title {
+}
+.article-card__link {
+}
+.article-card__outher {
+}
+.article-card__exc {
+}
+
 
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2),
